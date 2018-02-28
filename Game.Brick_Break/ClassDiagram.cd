@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ball" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAQAAAAgAAAAAAAAAAAAAEAAAAAEBCAAQAAIA=</HashCode>
+      <FileName>Ball.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brick" Collapsed="true">
+    <Position X="2.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAABAAAAAAACAAJAAAAAAAAAgAAAAAAAAAEAAQ=</HashCode>
+      <FileName>Brick.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="button" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAIAAAAAAAAQAQAAAAAEAABAAAgIIAABgAAgAAAA=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entiny" Collapsed="true">
+    <Position X="3.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAgAAAAAAAAAAAAAAAAAAAACAAQgAABAAAAAAAAAA=</HashCode>
+      <FileName>Entiny.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fall" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAABAAARgAEAAAAAAAAAABAAgAABAACAAQAAAA=</HashCode>
+      <FileName>Fall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flip" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAABgAAAAAAAAEAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Flip.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tiny_state" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAABAAAAAABACAAAAAAA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game_state" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAAAAAAAAAAAAAAAAAAABAAAAMABEAAAAAAAQ=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Life" Collapsed="true">
+    <Position X="12" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABUAAAAAAAAABgAAAAAAAAAAAABAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Life.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="List_brick" Collapsed="true">
+    <Position X="7.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAgEAAECAAAgAAAAAIAAEAAQQIAgAIMkACAgAAAAA=</HashCode>
+      <FileName>List_brick.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Live" Collapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAgAAAAAAAAAAAAAAgAAAAAAAACAAAAAAIAABACA=</HashCode>
+      <FileName>Live.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Load_Map" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAACAAAAAAAAAAAABAAAAAAAAgAAAAAAACAAAAA=</HashCode>
+      <FileName>Load_Map.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Long" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAEAAAAgBgAAAAAAAAAAAABAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Long.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="main_game" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAchgQgAAAQEAAAAIAAIBAAAABBIAgCAIJACAQAAAAA=</HashCode>
+      <FileName>main_game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="main_gameover" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAAAAAAAABBAAgAIABACAAAAAAA=</HashCode>
+      <FileName>main_gameover.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="main_help" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAABBAAgAAABACAAAAAAA=</HashCode>
+      <FileName>main_help.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="main_menu" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAACAAAABBAAkJAABACAAAAAAA=</HashCode>
+      <FileName>main_menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fast" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAgBgAAAAAAAAAIAgBAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Fast.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paddle" Collapsed="true">
+    <Position X="5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAIAAAAAAACQAAABAAAAAAAAACAAgAAAAAAAA=</HashCode>
+      <FileName>Paddle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Score" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAgAAAAAAAAAAAAAACCAAAAAIAAAAAA=</HashCode>
+      <FileName>Score.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Slow" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAgBgAAAAAAAAAAAgBAAAAAAAACAAAABAA=</HashCode>
+      <FileName>Slow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wrap" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQgAAAAAAAABgAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wrap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
